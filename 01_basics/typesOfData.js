@@ -1,0 +1,15 @@
+/*
+        Typeof               Value
+
+        Undefined           Undefined
+        Null                Object
+        Boolean             Boolean
+        Number              Number
+        String              String
+        Array               Object
+        Object              Object
+        Function            Function
+        Symbol              Symbol
+        BigInt              BigInt
+        
+*/
