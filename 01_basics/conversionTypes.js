@@ -6,6 +6,10 @@ console.log(boolValue);
 console.log(typeof boolValue);
 
 
+let nms = Number(str);
+ console.log(nms)
+
+
 
 /* Number to String */
 
