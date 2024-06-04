@@ -23,7 +23,7 @@ console.log(num3.toLocaleString('en-In'))
 
     num2.toPrecision(5)
 
-    num2.toFixed(2)                    23.89     //after decimal shows number of digits given input
+    num2.toFixed(2)                    23.89     // shows number of digits given input
 
 
     let num3 = 1000000;
