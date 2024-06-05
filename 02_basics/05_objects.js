@@ -6,7 +6,8 @@ let myCourse = {
     price: 999
 }
 
-const {courseInstructor} = myCourse;
+const {courseInstructor : teacher} = myCourse;
 
 console.log(courseInstructor);
+console.log(teacher);
 
